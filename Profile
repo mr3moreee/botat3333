@@ -1,1 +1,0 @@
- worker:nodebot.js
